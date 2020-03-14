@@ -37,6 +37,7 @@ button{
 
 .navbar {
     background: green;
+
 }
 .navbar-toggler {
     border: #fff;
@@ -67,7 +68,7 @@ h1{
 }
 
 footer{
-    background: orangered;
+    background: green;
     color: #fff;
 }
 h4{text-align: left;
